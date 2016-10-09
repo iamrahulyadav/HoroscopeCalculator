@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/money/AndroidStudioProjects/HoroscopeCalculator/app/build/intermediates/exploded-aar/com.android.support/support-fragment/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="5f64d657e838e8375135c0f6057a7ff8fab6a50e">
+        <dex dex="/Users/money/AndroidStudioProjects/HoroscopeCalculator/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.1_0171457838b4b989d2d7543300b5a89749a14c09/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/money/AndroidStudioProjects/HoroscopeCalculator/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="867dad63c33388ff8c7644b236579355036d075f">
+        <dex dex="/Users/money/AndroidStudioProjects/HoroscopeCalculator/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.1_de4b2c77d5aa5d77ea7fa81b377b05172548eb65/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/money/AndroidStudioProjects/HoroscopeCalculator/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="b6b6deef0b4f0d6489b62871af718299812b1133">
+        <dex dex="/Users/money/AndroidStudioProjects/HoroscopeCalculator/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_f44205b14bb0f486955f9f45528fd24f907bda11/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/money/AndroidStudioProjects/HoroscopeCalculator/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="94bc1dfb84dcc8b6f6f8f7cc726d7b2dd39c1574">
+        <dex dex="/Users/money/AndroidStudioProjects/HoroscopeCalculator/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-animated-vector-drawable-24.2.1_5ac1129e66e348bebdb2c0ef9eb7ba56a8e203c0/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/money/AndroidStudioProjects/HoroscopeCalculator/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="fbf8da429efd5ad21e02e3e5ecaa1efc4167878d">
+        <dex dex="/Users/money/AndroidStudioProjects/HoroscopeCalculator/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.1_e77f339788b18c37dc1a4cd4de4a50f368b2e99e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/money/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/24.2.1/support-annotations-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="8de3aafecbdf98a61db6427f008f2d515bcd2544">
+        <dex dex="/Users/money/AndroidStudioProjects/HoroscopeCalculator/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-24.2.1_86c0344f69c161459464152ebb233d1c4f25262f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/money/AndroidStudioProjects/HoroscopeCalculator/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="d5c731fc64c03dfe04d51134955b483551c35849">
+        <dex dex="/Users/money/AndroidStudioProjects/HoroscopeCalculator/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-vector-drawable-24.2.1_1000e9b63e0102ad5a4a48e1ac067511e29f140b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/money/AndroidStudioProjects/HoroscopeCalculator/app/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="7e4389bd133359a2ff88623ff1e4ff93d6e6f780">
+        <dex dex="/Users/money/AndroidStudioProjects/HoroscopeCalculator/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.1_db03f80fd08a28aa423efe49f2cf445860e8ef36/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/money/AndroidStudioProjects/HoroscopeCalculator/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="ebcf4a71ac3f0f4a5e00340e0346f57de627a99d">
+        <dex dex="/Users/money/AndroidStudioProjects/HoroscopeCalculator/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_7f7ba72361d2fbf90a40a082e5d239e0da99ca13/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/money/AndroidStudioProjects/HoroscopeCalculator/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/money/AndroidStudioProjects/HoroscopeCalculator/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-24.2.1_556f6fbe2b0dde2170604ebb16822719c58b24d5/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/money/AndroidStudioProjects/HoroscopeCalculator/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="9c4c3bc902450c39ed54de170db4fb12aea20a35">
+        <dex dex="/Users/money/AndroidStudioProjects/HoroscopeCalculator/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-utils-24.2.1_32dda5ae9b4659ffc2cb0e0afe45c8caec5ef57b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/money/AndroidStudioProjects/HoroscopeCalculator/app/build/intermediates/exploded-aar/com.android.support/support-fragment/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="b9a1ac78ad7ef3abedc4a4b30cd92bcacb939d1f">
+        <dex dex="/Users/money/AndroidStudioProjects/HoroscopeCalculator/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-fragment-24.2.1_4b471a5f5d896f863628906452b93db1e8b8dfc7/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/money/AndroidStudioProjects/HoroscopeCalculator/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="935a969265b2a166b2d20415423f5f6e90fe16e0">
+        <dex dex="/Users/money/AndroidStudioProjects/HoroscopeCalculator/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.1_c2631d62766d37311aea0a2b38d194709743cbc2/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/money/AndroidStudioProjects/HoroscopeCalculator/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="e7f3132168957eefc46229fc32c3bd464642b71e">
+        <dex dex="/Users/money/AndroidStudioProjects/HoroscopeCalculator/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-ui-24.2.1_302b4814f3302311c7fc95ab1fe43b89235a015d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/money/AndroidStudioProjects/HoroscopeCalculator/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="43b2dba6b5a0b14527961b75329d0b90025f15ea">
+        <dex dex="/Users/money/AndroidStudioProjects/HoroscopeCalculator/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-24.2.1_08536f218eaff41cab31b68a886ff418f18f7090/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/money/AndroidStudioProjects/HoroscopeCalculator/app/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="0ecb4b595fa0f0f8018a149ace3ea6525624f94e">
+        <dex dex="/Users/money/AndroidStudioProjects/HoroscopeCalculator/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-compat-24.2.1_e91358b88976ff3fa886f7e00a2caddf4df6b330/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/money/AndroidStudioProjects/HoroscopeCalculator/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="09b462bbcb77650284bd6614f1a32f360ef369f8">
+        <dex dex="/Users/money/AndroidStudioProjects/HoroscopeCalculator/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-media-compat-24.2.1_e4d92431e396306daaab2efa2682b1e77003a86c/classes.dex" />
+    </item>
+
+</items>
